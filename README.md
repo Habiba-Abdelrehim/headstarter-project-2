@@ -13,11 +13,13 @@ The Pantry Tracker Application is a web-based tool designed to help users manage
   - React
   - Material UI
 
+
 - **Backend:**
   - Firebase
   - Firebase Authentication
   - Firestore Database
   - Google Cloud Platform (GCP)
+
 
 - **Deployment & Operations:**
   - Vercel
