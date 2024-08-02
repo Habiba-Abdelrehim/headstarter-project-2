@@ -11,6 +11,7 @@ The Pantry Tracker Application is a web-based tool designed to help users manage
 - **Frontend:**
   - Next.js
   - React
+  - Tailwind CSS
   - Material UI
 
 
