@@ -25,7 +25,7 @@ The Pantry Tracker Application is a web-based tool designed to help users manage
 - **Deployment & Operations:**
   - Vercel
   - CI/CD
-  - OpenAI (for potential AI features)
+  - OpenAI (for AI features)
 
 
 
