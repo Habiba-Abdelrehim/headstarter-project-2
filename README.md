@@ -35,6 +35,6 @@ The Pantry Tracker Application is a web-based tool designed to help users manage
 - **Remove Items:** Users can remove items from their pantry when they are no longer needed.
 - **Update Quantities:** Users can update the quantities of existing pantry items to reflect changes in stock.
 - **Search & Filter:** Find items easily with search or filter functionality.
+- **Recipe Suggestions:** Get recipe suggestions based on pantry contents using the OpenAI API.
 - **Firebase Integration:** Real-time database updates and secure user authentication using Firebase services.
-- **Frontend Design:** Presentable and user-friendly design to display pantry items effectively.
-- **Deployment:** Hosted on Vercel for seamless deployment and scaling.
+- **Google Cloud Platform Integration:** Utilizes GCP for scalable and reliable backend infrastructure.
