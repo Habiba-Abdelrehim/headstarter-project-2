@@ -25,7 +25,7 @@ export default function Home() {
       color: 'black',
       fontWeight: 'bold',
       textAlign: 'center',
-  }}> Pantry Tracker
+  }}> The Pantry Tracker
   </Typography>
   <Typography variant="h5"  
       sx={{
@@ -34,7 +34,7 @@ export default function Home() {
       color: 'black',
       textAlign: 'center',
       marginBottom:4,
-  }}> Manage your inventory and get cool recipes !
+  }}> Effortless Inventory Management: Simplify, Track, Enjoy!
   </Typography>
   <Link href="/main" passHref>
   <Button
