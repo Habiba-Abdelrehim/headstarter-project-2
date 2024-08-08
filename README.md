@@ -11,13 +11,11 @@ The Pantry Tracker Application is a web-based tool designed to help users manage
 - **Frontend:**
   - Next.js
   - React
-  - Tailwind CSS
   - Material UI
 
 
 - **Backend:**
   - Firebase
-  - Firebase Authentication
   - Firestore Database
   - Google Cloud Platform (GCP)
 
@@ -25,7 +23,6 @@ The Pantry Tracker Application is a web-based tool designed to help users manage
 - **Deployment & Operations:**
   - Vercel
   - CI/CD
-  - OpenAI (for AI features)
 
 
 
@@ -34,7 +31,4 @@ The Pantry Tracker Application is a web-based tool designed to help users manage
 - **Add Items:** Users can add new items to their pantry with details like name and quantity.
 - **Remove Items:** Users can remove items from their pantry when they are no longer needed.
 - **Update Quantities:** Users can update the quantities of existing pantry items to reflect changes in stock.
-- **Search & Filter:** Find items easily with search or filter functionality.
-- **Recipe Suggestions:** Get recipe suggestions based on pantry contents using the OpenAI API.
-- **Firebase Integration:** Real-time database updates and secure user authentication using Firebase services.
-- **Google Cloud Platform Integration:** Utilizes GCP for scalable and reliable backend infrastructure.
+- **Search & Filter:** Users can find items easily with search or filter functionality.
