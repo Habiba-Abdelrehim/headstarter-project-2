@@ -31,4 +31,4 @@ The Pantry Tracker Application is a web-based tool designed to help users manage
 - **Add Items:** Users can add new items to their pantry with details like name and quantity.
 - **Remove Items:** Users can remove items from their pantry when they are no longer needed.
 - **Update Quantities:** Users can update the quantities of existing pantry items to reflect changes in stock.
-- **Search & Filter:** Find items easily with search or filter functionality.
+- **Search & Filter:** Users can find items easily with search or filter functionality.
